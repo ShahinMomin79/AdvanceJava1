@@ -1,0 +1,25 @@
+package com.techno.jdbc;
+
+import java.io.FileReader;
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import java.util.Properties;
+
+public class JDBCSelect5 {
+     private static Connection connection;
+     private static Statement statement;
+     private static ResultSet resultSet;
+     private static FileReader fileReader;
+ 	private static Properties properties;
+ 	private static String Query;
+ 	private static String filepath="D:\\\\AdvanceJavaBatch1\\\\JDBC\\\\resources\\\\db_info.properties";
+ 	
+ 	public static void main(String[] args) {
+ 		fileReader=new FileReader(filepath);
+ 		properties=new Properties();
+ 		properties.load(fileReader);
+ 		
+		Class.forName(properties.getProperty("driverpath"));
+	}
+}

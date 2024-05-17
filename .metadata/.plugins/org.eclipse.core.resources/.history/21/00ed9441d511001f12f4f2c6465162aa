@@ -1,0 +1,29 @@
+package com.techno.jdbc;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class JDBCSelect1 {
+	//1.load Driver class
+	//2.open connection
+	//3.create/prepare statement
+	//4.process result
+	//5.close connection
+	
+	public static void main(String[] args) {
+		
+		try {
+			//1.Driver class
+			Class.forName("com.mysql.cj.jdbc.Driver");
+			
+			Connection connection=DriverManager.getConnection(null)
+			
+			
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+
+}

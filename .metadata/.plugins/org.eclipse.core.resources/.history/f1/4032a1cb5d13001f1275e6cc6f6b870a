@@ -1,0 +1,15 @@
+package com.techno.jdbc;
+
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.Statement;
+
+public class JDBCSelect4 {
+	private static Connection connection;
+	private static Statement statement;
+	private static ResultSet resultSet;
+	private static String Driverpath="com.mysql.cj.jdbc.Driver";
+	private static String url="";
+	private static String Query;
+
+}

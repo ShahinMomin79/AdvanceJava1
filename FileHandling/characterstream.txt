@@ -1,0 +1,10 @@
+java--- james gosling in 1995
+features of java ---
+1.java is high level progammimg langauge
+2.java is easy to understand 
+3.java is open source 
+4.java provides high security
+5.java is platform independent
+6.java is object oriented progamming langauge
+7.java supports packages 
+8.java supports inbuilt libraries

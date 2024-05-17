@@ -1,0 +1,12 @@
+package com.techno.jdbc;
+
+import java.sql.Connection;
+
+public class JDBCSelect3 {
+	private static  Connection connection;
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

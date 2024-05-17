@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="com.Techno.MultiThreading.MyThread2"/>
+    <fullyQualifiedTypeName name="com.Techno.MultiThreading.MyThread1"/>
+    <fullyQualifiedTypeName name="com.Techno.MultiThreading.SleepDemo"/>
+    <fullyQualifiedTypeName name="com.Techno.MultiThreading.StopThread"/>
+    <fullyQualifiedTypeName name="com.Techno.MultithreadingDemo.Husband"/>
+    <fullyQualifiedTypeName name="com.Techno.MultithreadingDemo.Account"/>
+    <fullyQualifiedTypeName name="com.Techno.MultithreadingDemo.Wife"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="com.Techno.multithreadingWait.Pizza"/>
+    <fullyQualifiedTypeName name="com.Techno.multithreadingWait.Friends"/>
+    <fullyQualifiedTypeName name="com.Techno.multithreadingWait.PizzaHut"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="com.techno.SD.User"/>
+    <fullyQualifiedTypeName name="com.techno.DesignPatterns.SingletonLazyMain"/>
+    <fullyQualifiedTypeName name="com.techno.DesignPatterns.SingletonLazy"/>
+    <fullyQualifiedTypeName name="com.techno.DesignPatterns.SingletonEagerMain"/>
+    <fullyQualifiedTypeName name="com.techno.DesignPatterns.SingletonEager"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.techno.DesignPatterns.Factory.Browser"/>
+    <fullyQualifiedTypeName name="com.techno.DesignPatterns.Factory.Chrome"/>
+    <fullyQualifiedTypeName name="com.techno.DesignPatterns.Factory.Edge"/>
+    <fullyQualifiedTypeName name="com.techno.DesignPatterns.Factory.Firefox"/>
+    <fullyQualifiedTypeName name="com.techno.DesignPatterns.Factory.Brave"/>
+    <fullyQualifiedTypeName name="com.techno.DesignPatterns.Builder.Mobile"/>
+    <fullyQualifiedTypeName name="com.techno.DesignPatterns.Builder.MobileBuilder"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.techno.DesignPatterns.Adapter.Employee"/>
+    <fullyQualifiedTypeName name="com.techno.DesignPatterns.Adapter.Events"/>
+    <fullyQualifiedTypeName name="com.techno.DesignPatterns.Adapter.EmpEventAdapter"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.lang.Class"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+</qualifiedTypeNameHistroy>
